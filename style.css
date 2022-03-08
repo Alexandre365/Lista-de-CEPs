@@ -1,0 +1,57 @@
+*{
+    background-color: none;
+    color: white;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+main{
+    margin: 10px;
+    width: 700px;
+    background-color: #100f13;
+    border-radius: 10px;
+    padding: 10px;
+}
+h1{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+form{
+    padding: 10px 0px;
+    display: flex;
+    width: 100%;
+}
+input{
+    padding: 5px;
+    margin: 0px 5px;
+    border-radius: 5px;
+    width: 100%;
+    background-color: #323438;
+    color: white;
+}
+
+select{
+    background-color: #323438;
+    color: white;
+}
+
+.Card{
+    background-color: #323438;
+    border-radius: 10px;
+    padding: 10px;
+}
+.Card div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.txt div{
+    margin: 10px;
+}
